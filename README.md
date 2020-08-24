@@ -5,4 +5,5 @@ This repository contains the projects proposed in the nand2tetris course by Noam
   <li>Project 1: Boolean Logic</li>
   <li>Project 2: Boolean Arithmetic</li>
   <li>Project 3: Sequential Logic</li>
+  <li>Project 4: Machine Language</li>
 </ul>
